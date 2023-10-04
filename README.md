@@ -1,4 +1,4 @@
-# WebExtensionTemplate
+# Transmission Browser Extension
 
 Create a browser extension for Chrome, Firefox and Safari in no time.
 
